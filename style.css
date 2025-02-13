@@ -77,3 +77,16 @@ position: relative;
         transition: .2s  all ease;
     }
 }
+.whatsapp{
+
+    position: relative;
+  }
+  .whatsapp a img{
+    position: fixed;
+    bottom: 50%;
+    right: 10px;
+    width: 90px;
+    height: 90px;
+    background-color: #fff;
+    border-radius: 50%;
+  }
